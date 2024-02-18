@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+nav a {
+  display: inline-block;
+  padding: 10px;
+  background-color: grey;
+}
+figcaption {
+  font-size: 14px;
+  text-align: center;
+}
+#featured-property p {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px 0; /* Adds vertical space */
+}
+#details div {
+  float: left
+  background-color: lightgrey;
+  text-align: center;
+  width: 25%;
+}
